@@ -13,12 +13,5 @@ public class ApiControllers {
         return "Web Page";
     }
 
-//    @Autowired
-//    private CustomerRepo customerRepo;
-//
-//    @GetMapping(value = "/customers")
-//    public List<Customer> getCustomers(){
-//        return customerRepo.findAll();
-//    }
 }
 
